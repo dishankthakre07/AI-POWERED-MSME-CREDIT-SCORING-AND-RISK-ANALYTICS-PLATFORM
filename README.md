@@ -1,4 +1,4 @@
-# AI-POWERED-MSME-CREDIT-SCORING-AND-RISK-ANALYTICS-PLATFORM
+AI-Powered MSME Credit Scoring & Risk Analytics Platform
 A production-style Python and Streamlit platform for MSME credit scoring, lender risk analytics, and explainable underwriting.
 
 What This App Does
@@ -82,5 +82,3 @@ Notes
 The dataset is synthetic and intended for demos and prototyping.
 SHAP explainability is shown when the package is available and compatible with the selected model.
 For production lending, you would still need model governance, compliance review, and live data integrations.
-msme-credit-scoring-ai
-AI-Powered MSME Credit Scoring And Risk Analytics Platform
